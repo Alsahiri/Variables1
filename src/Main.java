@@ -99,5 +99,6 @@ public class Main {
         singleWorkerTime = totalWorkTime / amountWorkefs;
         System.out.println("Если в компании работает " + amountWorkefs + " человек, то всего " + singleWorkerTime + " часов работы может быть поделено между сотрудниками");
         // Пишем код для задачи 8
+        // Чтобы Pull requests
     }
 }
